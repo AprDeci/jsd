@@ -1,6 +1,6 @@
 export const CONFIG = {
     // 联系方式
-    CONTACT: 'rong6@bocchi.ing',
+    CONTACT: 'Luchen126@gmail.com',
     
     // 文件大小限制 (单位: MB, 0表示不限制)
     MAX_FILE_SIZE: 5,
@@ -42,6 +42,8 @@ export const CONFIG = {
         ],
         // 白名单模式时使用 (只允许这些站点引用)
         whitelist: [
+            https://www.aprdec.top
+            https://aprdec.top
         ]
     }
 }
