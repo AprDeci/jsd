@@ -42,8 +42,6 @@ export const CONFIG = {
         ],
         // 白名单模式时使用 (只允许这些站点引用)
         whitelist: [
-            https://www.aprdec.top,
-            https://aprdec.top
         ]
     }
 }
